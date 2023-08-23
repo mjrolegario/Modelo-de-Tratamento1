@@ -7,7 +7,7 @@ que o usuário final vê e por conta disso
 precisa ser modificado para usarmos 
 nos nossos dashboards.
 
-Primeiro eu comeoço removendo as células mescladas.
+Primeiro eu começo removendo as células mescladas.
 
 Após isso inicio uma série de modificações usando
 o Pandas para no final se tornar uma tabela que
